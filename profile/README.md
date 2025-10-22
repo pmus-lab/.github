@@ -11,3 +11,10 @@ This repository contains the teaching resources of the Psychological Methods and
 | **psy112**                    | Evaluation Research     | [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://kristantodan12.github.io/psy112-ER/)    | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/kristantodan12/psy112-ER)     |
 | **psy126**                    | Test Theory             | [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://leonardozaggia.github.io/psy126/)       | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/leonardozaggia/psy126)        |
 | **psy300**                    | Machine Learning        | [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://mibur1.github.io/psy300/)               | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/mibur1/psy300)                |
+
+
+**Additional resources:**
+| Description             | GitHub Pages                                                                                               | Source Code                                                                                                                         |
+|-------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| **Automatic Literature Search Book** |[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://leonardozaggia.github.io/automated_systematic_literature_search/book/introduction.html) | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/leonardozaggia/automated_systematic_literature_search)
+| **Review Buddy** | /             | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/leonardozaggia/review_buddy)
