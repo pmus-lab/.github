@@ -1,9 +1,10 @@
-👋 Hi there!
------------
+# 👋 Hi there!
 
-This repository contains the teaching resources of the Psychological Methods and Statistics Lab from the Carl von Ossietzky Universität Oldenburg.
+This repository contains teaching materials and other resources from the [Psychological Methods and Statistics Lab](https://uol.de/en/psychology/psychological-methods-and-statistics) from the Carl von Ossietzky Universität Oldenburg.
 
-**Teaching materials:**
+
+## Teaching materials
+
 | Course                        | Description             | GitHub Pages                                                                                               | Source Code                                                                                                                         |
 |-------------------------------|-------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **psy111**                    | Multivariate Statistics | [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://mibur1.github.io/psy111/)               | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/mibur1/psy111)                |
@@ -13,7 +14,8 @@ This repository contains the teaching resources of the Psychological Methods and
 | **psy300**                    | Machine Learning        | [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://mibur1.github.io/psy300/)               | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/mibur1/psy300)                |
 
 
-**Additional resources:**
+## Other resources
+
 | Description             | Materials                                                                                               | Source Code                                                                                                                         |
 |-------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **Automatic Literature Search Book** | [![Jupyter Book Badge](https://raw.githubusercontent.com/jupyter-book/jupyter-book/next/docs/media/images/badge.svg)](https://leonardozaggia.github.io/automated_systematic_literature_search/book/introduction.html) | [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/leonardozaggia/automated_systematic_literature_search)
